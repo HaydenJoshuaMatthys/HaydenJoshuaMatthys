@@ -1,3 +1,4 @@
+```
                    .%#                          
                   :@#%                          
                  .#*+*                          
@@ -23,7 +24,8 @@
                .                :%@-            
               :@%-           .*@@-.             
                .-*@@#+=-=+*%@%+:                
-                    .-+**=:.                    
+                    .-+**=:.   
+```                 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Pixel&pause=1000&color=A70AF7&center=true&width=435&lines=IT+Student;C%2B%2B+%7C+C%23+%7C+Python+%7C+Delphi+;Home+Server+Admin;Tinkerer)](https://git.io/typing-svg)
 <h1 align="center"> 
