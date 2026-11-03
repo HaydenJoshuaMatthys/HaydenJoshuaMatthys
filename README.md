@@ -1,4 +1,4 @@
-<h1> 
+<h1 align="center"> 
   Skills
 </h1>
 <p align="center">
