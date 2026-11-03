@@ -30,14 +30,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=BA00FF&height=2" width="60%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=BA00FF&icon_color=BA00FF&text_color=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BA00FF&height=100&section=footer" />
-</p>
-
 <!--
 **HaydenJoshuaMatthys/HaydenJoshuaMatthys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
