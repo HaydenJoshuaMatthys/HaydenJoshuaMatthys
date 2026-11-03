@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,py,raspberrypi)](https://skillicons.dev)
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=cpp,cs,py,raspberrypi)" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,py,raspberrypi" />
   </a>
 </p>
 <!--
