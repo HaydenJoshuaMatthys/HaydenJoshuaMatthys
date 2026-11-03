@@ -2,7 +2,10 @@
   <img src="assets/ascii.svg" width="400" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Pixel&pause=1000&color=A70AF7&center=true&width=435&lines=IT+Student;C%2B%2B+%7C+C%23+%7C+Python+%7C+Delphi+;Home+Server+Admin;Tinkerer)](https://git.io/typing-svg)
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geist+Pixel&pause=1000&color=BA00FF&center=true&width=435&lines=IT+Student;C%2B%2B+%7C+C%23+%7C+Python+%7C+Delphi+;Home+Server+Admin;Tinkerer" alt="Typing SVG" />
+</a>
+</p>
 
 <h1 align="center"> 
   Skills
