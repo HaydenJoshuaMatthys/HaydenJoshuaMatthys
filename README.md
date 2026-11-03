@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,py,raspberrypi)](https://skillicons.dev)
+
 <!--
 **HaydenJoshuaMatthys/HaydenJoshuaMatthys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
