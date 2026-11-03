@@ -2,6 +2,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,py,raspberrypi)](https://skillicons.dev)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=cpp,cs,py,raspberrypi)" />
+  </a>
+</p>
 <!--
 **HaydenJoshuaMatthys/HaydenJoshuaMatthys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
